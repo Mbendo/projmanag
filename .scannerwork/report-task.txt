@@ -1,0 +1,6 @@
+projectKey=MKPLprojectManager
+serverUrl=http://localhost:9000
+serverVersion=8.2.0.32929
+dashboardUrl=http://localhost:9000/dashboard?id=MKPLprojectManager
+ceTaskId=AXjUQOjh2QfeTSCMW56l
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXjUQOjh2QfeTSCMW56l
